@@ -36,16 +36,16 @@ Over 8 weeks, the project builds from foundational graph algorithms all the way 
 ```
 SOC-The-Optimal-Odyssey/
 ├── Week 1/
-│   ├── notes.md        ← personal notes and concept summary
+│   ├── README.md        ← personal notes and concept summary
 │   └── solutions/      ← problem solutions
 ├── Week 2/
-│   ├── notes.md
+│   ├── README.md
 │   └── solutions/
 ...
 ```
 
 Each week folder contains:
-- `notes.md` — my understanding of the week's concepts
+- `README.md` — my understanding of the week's concepts
 - `solutions/` — C++ solutions to the assigned problems, named by problem
 
 ---
