@@ -21,8 +21,8 @@ Over 8 weeks, the project builds from foundational graph algorithms all the way 
 | Week | Topic | Status |
 |------|-------|--------|
 | 1 | Graphs, BFS & DFS | ✅ Completed |
-| 2 | Dijkstra, Prim's & Kruskal's | ✅ In Progress |
-| 3 | A\* Algorithm & Heuristic Search | ⬜ Not Started |
+| 2 | Dijkstra, Prim's & Kruskal's | ✅ Completed |
+| 3 | A\* Algorithm & Heuristic Search | ✅ In Progress |
 | 4 | Checkpoint — K Shortest Paths & TSP Consolidation | ⬜ Not Started |
 | 5 | TSP Introduction & Computational Hardness | ⬜ Not Started |
 | 6 | Approximation Algorithms | ⬜ Not Started |
